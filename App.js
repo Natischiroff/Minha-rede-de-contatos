@@ -10,5 +10,12 @@ export default function App() {
     nome: 'Maria Silva',
     cargo: 'Desenvolvedora Front-End',
     imagem: ''
+    descricao:''Resolvendo codigos',
+  },
+  {
+    nome:'João Pereira',
+    cargo:'Designer',
+    imagem:''
+    descricao:''
   }
 }
